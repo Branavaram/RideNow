@@ -5,6 +5,7 @@
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Components-000000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A complete ride-hailing web application (similar to Uber/PickMe) with three interfaces: Passenger, Driver, and Admin.
 
